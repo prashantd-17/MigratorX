@@ -92,7 +92,7 @@ Happy upgrading! ⚡
 Contributions are welcome!  
 If you encounter an issue or want to request a feature:
 
-➡ https://github.com/YOUR_USERNAME/migratorx/issues
+➡ https://github.com/prashantd-17/MigratorX
 
 To contribute:
 1. Fork repo
