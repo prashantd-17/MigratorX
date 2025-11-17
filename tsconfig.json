@@ -1,0 +1,10 @@
+{
+  "extends": "./tsconfig.build.json",
+  "include": ["src/**/*", "bin/**/*"],
+  "ts-node": {
+    "files": true
+  },
+  "angularCompilerOptions": {
+    "enableIvy": false
+  }
+}
