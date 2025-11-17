@@ -47,7 +47,7 @@ npx migratorx
 
 # ✅ **SECTION 6 — What MigratorX Does Automatically**
 
-```md
+
 ## 🧠 What MigratorX Automates
 
 | Category | Included |
