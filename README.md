@@ -23,8 +23,6 @@ npm install -g migratorx
 
 ---
 
-# ✅ **SECTION 4 — Quick Start**
-
 
 ## 🚀 Quick Start
 
@@ -35,8 +33,6 @@ npx migratorx
 
 ---
 
-# ✅ **SECTION 5 — Example Migration Flow**
-
 ## 📌 Example Migration (Angular 11 → 18)
 
 ```bash
@@ -44,9 +40,6 @@ npx migratorx
 ```
 
 ---
-
-# ✅ **SECTION 6 — What MigratorX Does Automatically**
-
 
 ## 🧠 What MigratorX Automates
 
